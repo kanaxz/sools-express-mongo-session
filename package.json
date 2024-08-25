@@ -1,0 +1,15 @@
+{
+  "name": "sools-express-mongo-session",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sools-core-server": "^1.19.0",
+    "sools-mongo": "^1.5.0"
+  }
+}
